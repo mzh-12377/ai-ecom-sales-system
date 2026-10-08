@@ -1,0 +1,20 @@
+{
+  "source": "智能云AI电商在线销售系统 · 成果包 · 样品出库管理",
+  "records": [
+    { "batch": "OUTPUT00001", "product": "品牌A-洗发水", "shelfDesc": "星空仓2号架8号位", "outShelf": "HUOJIA0001", "latestStock": "-23,126,276,642", "outQty": 2, "owner": "周建国", "outTime": "2025-02-10" },
+    { "batch": "OUTPUT00002", "product": "品牌B-啤酒花", "shelfDesc": "", "outShelf": "HUOJIA0004", "latestStock": "", "outQty": 3, "owner": "高睿", "outTime": "2025-02-11" },
+    { "batch": "OUTPUT00003", "product": "品牌B-啤酒", "shelfDesc": "", "outShelf": "HUOJIA0004", "latestStock": "", "outQty": 90, "owner": "高睿", "outTime": "2025-02-11" },
+    { "batch": "OUTPUT00004", "product": "品牌M-威士忌", "shelfDesc": "晴空仓4号架9号位", "outShelf": "HUOJIA0005", "latestStock": "", "outQty": 30, "owner": "罗子轩", "outTime": "2025-02-25" },
+    { "batch": "OUTPUT00005", "product": "品牌A-洗发水", "shelfDesc": "星空仓2号架8号位", "outShelf": "HUOJIA0005", "latestStock": "", "outQty": 1, "owner": "", "outTime": "2025-02-25" },
+    { "batch": "OUTPUT00006", "product": "品牌A-洗发水", "shelfDesc": "星空仓2号架8号位", "outShelf": "HUOJIA0005", "latestStock": "", "outQty": 10, "owner": "", "outTime": "2025-02-25" },
+    { "batch": "OUTPUT00007", "product": "品牌D-保健品", "shelfDesc": "苍鹰仓4号架9号位,苍鹰仓5号架2号位,苍鹰仓2号架9号位", "outShelf": "HUOJIA0006", "latestStock": "", "outQty": 1000000, "owner": "", "outTime": "2025-02-27" },
+    { "batch": "OUTPUT00008", "product": "品牌F-消毒水", "shelfDesc": "晴空仓2号架3号位,晴空仓8号架3号位", "outShelf": "HUOJIA0008", "latestStock": "", "outQty": 12, "owner": "", "outTime": "2025-03-04" },
+    { "batch": "OUTPUT00009", "product": "品牌A-洗发水", "shelfDesc": "星空仓2号架8号位", "outShelf": "HUOJIA0001", "latestStock": "-23,126,276,642", "outQty": 10, "owner": "", "outTime": "2025-03-04" },
+    { "batch": "OUTPUT00010", "product": "品牌A-洗发水", "shelfDesc": "星空仓2号架8号位", "outShelf": "HUOJIA0001", "latestStock": "-23,126,276,642", "outQty": 1, "owner": "", "outTime": "2025-03-06" },
+    { "batch": "OUTPUT00011", "product": "品牌M-威士忌", "shelfDesc": "晴空仓4号架9号位", "outShelf": "HUOJIA0001", "latestStock": "", "outQty": 1, "owner": "", "outTime": "2025-03-06" },
+    { "batch": "OUTPUT00012", "product": "品牌A-洗发水", "shelfDesc": "星空仓2号架8号位", "outShelf": "HUOJIA0002", "latestStock": "", "outQty": 23, "owner": "", "outTime": "2025-03-06" },
+    { "batch": "OUTPUT00013", "product": "品牌A-洗发水", "shelfDesc": "星空仓2号架8号位", "outShelf": "HUOJIA0001", "latestStock": "-23,126,276,642", "outQty": 11, "owner": "", "outTime": "2025-03-12" },
+    { "batch": "OUTPUT00014", "product": "品牌I-瑜伽垫", "shelfDesc": "", "outShelf": "HUOJIA0002", "latestStock": "", "outQty": 1, "owner": "", "outTime": "2025-03-13" },
+    { "batch": "OUTPUT00015", "product": "品牌A-洗发水", "shelfDesc": "星空仓2号架8号位", "outShelf": "HUOJIA0002", "latestStock": "", "outQty": 45, "owner": "", "outTime": "2025-03-25" }
+  ]
+}

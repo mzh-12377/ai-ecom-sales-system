@@ -1,0 +1,47 @@
+{
+  "system": "智能云AI电商在线销售系统",
+  "version": "1.0.0",
+  "source": "智能云AI电商在线销售系统 · 完整成果包",
+  "lastSync": "2026-07-21",
+  "summary": {
+    "tableCount": 25,
+    "recordCount": 895,
+    "moduleCount": 7
+  },
+  "modules": [
+    { "key": "product", "name": "产品合规", "desc": "极限词智能自检、卖点分析、审核留痕", "tables": ["极限词智能自检", "样品信息"] },
+    { "key": "content", "name": "内容生产", "desc": "爆款内容任务、卖点提炼、素材管理", "tables": ["直播策划大师", "内容任务"] },
+    { "key": "live", "name": "直播运营", "desc": "直播场次、策划话术、复盘建议", "tables": ["直播场次", "workbuddy复盘专家", "单品利润表"] },
+    { "key": "order", "name": "订单交易", "desc": "订单创建、状态流转、退单处理", "tables": ["订单创建", "销售明细记录"] },
+    { "key": "inventory", "name": "库存仓储", "desc": "入库登记、出库处理、在架库存", "tables": ["样品入库管理", "样品出库管理", "货架信息"] },
+    { "key": "talent", "name": "达人合作", "desc": "达人建联、寄样挂车、合作漏斗", "tables": ["达人数据列表", "合作进度记录"] },
+    { "key": "finance", "name": "财务结算", "desc": "GMV、抽佣提成、运营成本与利润", "tables": ["单品利润表", "结算流水"] }
+  ],
+  "tables": [
+    { "name": "单品利润表", "file": "profit.json", "records": 10 },
+    { "name": "销售明细记录", "file": "sales-detail.json", "records": 26 },
+    { "name": "订单创建", "file": "orders.json", "records": 15 },
+    { "name": "达人数据列表", "file": "talents.json", "records": 40 },
+    { "name": "样品信息", "file": "products.json", "records": 10 },
+    { "name": "样品入库管理", "file": "inventory-in.json", "records": 16 },
+    { "name": "样品出库管理", "file": "inventory-out.json", "records": 15 },
+    { "name": "极限词智能自检", "file": "compliance.json", "records": 5 },
+    { "name": "直播场次", "file": "live-sessions.json", "records": 10 },
+    { "name": "商品分类", "file": "-", "records": 5 },
+    { "name": "品牌主数据", "file": "-", "records": 9 },
+    { "name": "货架信息", "file": "-", "records": 10 },
+    { "name": "库房信息", "file": "-", "records": 4 },
+    { "name": "直播策划大师", "file": "-", "records": 12 },
+    { "name": "内容任务", "file": "-", "records": 18 },
+    { "name": "卖点分析", "file": "-", "records": 22 },
+    { "name": "跟进记录", "file": "-", "records": 34 },
+    { "name": "合作进度记录", "file": "-", "records": 40 },
+    { "name": "达人寄样记录", "file": "-", "records": 26 },
+    { "name": "平台主数据", "file": "-", "records": 6 },
+    { "name": "结算流水", "file": "-", "records": 31 },
+    { "name": "退货记录", "file": "-", "records": 19 },
+    { "name": "物流承运商", "file": "-", "records": 8 },
+    { "name": "系统用户", "file": "-", "records": 9 },
+    { "name": "操作日志", "file": "-", "records": 460 }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "source": "智能云AI电商在线销售系统 · 成果包 · 极限词智能自检 / workbuddy复盘专家",
+  "riskLevels": {
+    "high": { "label": "高风险", "desc": "命中最严禁类极限词，必须整改后方可发布" },
+    "mid": { "label": "中风险", "desc": "命中绝对化或夸大表述，建议替换为合规话术" },
+    "low": { "label": "通过", "desc": "未命中极限词库，可正常发布" }
+  },
+  "dictionary": [
+    { "word": "国家级", "level": "high", "category": "权威性", "suggest": "如具备资质，改为具体资质名称" },
+    { "word": "世界级", "level": "high", "category": "权威性", "suggest": "删除，或改为具体可核查的成绩" },
+    { "word": "最高级", "level": "high", "category": "绝对化", "suggest": "删除" },
+    { "word": "最佳", "level": "high", "category": "绝对化", "suggest": "改为“较为理想”" },
+    { "word": "第一品牌", "level": "high", "category": "绝对化", "suggest": "删除，或改为“受用户欢迎”" },
+    { "word": "全国第一", "level": "high", "category": "绝对化", "suggest": "删除" },
+    { "word": "全网最低", "level": "high", "category": "绝对化", "suggest": "改为“市场热销价”" },
+    { "word": "绝对正品", "level": "high", "category": "绝对化", "suggest": "改为“官方授权”" },
+    { "word": "独家", "level": "high", "category": "排他性", "suggest": "改为“本店专属”" },
+    { "word": "唯一", "level": "high", "category": "排他性", "suggest": "删除" },
+    { "word": "100%", "level": "high", "category": "绝对化", "suggest": "改为具体检测数据" },
+    { "word": "零风险", "level": "high", "category": "承诺性", "suggest": "删除" },
+    { "word": "无效退款", "level": "high", "category": "承诺性", "suggest": "改为按平台规则描述售后" },
+    { "word": "根治", "level": "high", "category": "医疗功效", "suggest": "删除医疗表述" },
+    { "word": "包治百病", "level": "high", "category": "医疗功效", "suggest": "删除医疗表述" },
+    { "word": "永久", "level": "mid", "category": "承诺性", "suggest": "改为“长期”" },
+    { "word": "顶级", "level": "mid", "category": "绝对化", "suggest": "改为“高品质”" },
+    { "word": "极致", "level": "mid", "category": "绝对化", "suggest": "改为“出色”" },
+    { "word": "王牌", "level": "mid", "category": "绝对化", "suggest": "改为“主推款”" },
+    { "word": "销量冠军", "level": "mid", "category": "绝对化", "suggest": "改为“热销款”" },
+    { "word": "史上最强", "level": "mid", "category": "绝对化", "suggest": "改为“性能提升明显”" },
+    { "word": "秒杀一切", "level": "mid", "category": "绝对化", "suggest": "删除" },
+    { "word": "万能", "level": "mid", "category": "夸大", "suggest": "改为“多场景适用”" },
+    { "word": "特效", "level": "mid", "category": "医疗功效", "suggest": "改为“使用感良好”" },
+    { "word": "纯天然", "level": "mid", "category": "夸大", "suggest": "改为“含天然植物成分”" },
+    { "word": "无添加", "level": "mid", "category": "夸大", "suggest": "改为“未额外添加防腐剂”" },
+    { "word": "立竿见影", "level": "mid", "category": "夸大", "suggest": "改为“使用后感受明显”" },
+    { "word": "最便宜", "level": "mid", "category": "绝对化", "suggest": "改为“价格实惠”" }
+  ],
+  "records": [
+    {
+      "id": "CK20260901-001",
+      "createdAt": "2026-09-01",
+      "image": "面霜主图_01.jpg",
+      "extractedText": "诗黎娜黑绷带面霜 · 国家级检测报告 · 全网最低价 · 100% 纯天然成分 · 无效退款",
+      "level": "high",
+      "hits": ["国家级", "全网最低", "100%", "纯天然", "无效退款"],
+      "sellingPoints": ["修护", "紧致"],
+      "reviewer": "系统自动"
+    },
+    {
+      "id": "CK20260901-002",
+      "createdAt": "2026-09-01",
+      "image": "充电宝详情页_02.png",
+      "extractedText": "麦小萌磁吸充电宝 · 磁吸贴合即充 · 支持双向快充 · 可上飞机",
+      "level": "low",
+      "hits": [],
+      "sellingPoints": ["磁吸", "快充"],
+      "reviewer": "系统自动"
+    },
+    {
+      "id": "CK20260902-003",
+      "createdAt": "2026-09-02",
+      "image": "防晒衣直播话术.png",
+      "extractedText": "蕉然防晒衣 · UPF50+ · 冰感凉皮 · 世界级面料工艺 · 销量冠军",
+      "level": "high",
+      "hits": ["世界级", "销量冠军"],
+      "sellingPoints": ["防晒", "凉感"],
+      "reviewer": "系统自动"
+    },
+    {
+      "id": "CK20260903-004",
+      "createdAt": "2026-09-03",
+      "image": "扩展坞卖点_01.jpg",
+      "extractedText": "联越 Type-C 扩展坞 · 8 合 1 · 支持 4K 60Hz · PD 100W 快充",
+      "level": "low",
+      "hits": [],
+      "sellingPoints": ["8 合 1", "4K"],
+      "reviewer": "系统自动"
+    },
+    {
+      "id": "CK20260903-005",
+      "createdAt": "2026-09-03",
+      "image": "面霜话术_v2.png",
+      "extractedText": "诗黎娜黑绷带面霜 · 高浓度修护配方 · 夜间密集滋养 · 改善干纹与紧绷感",
+      "level": "low",
+      "hits": [],
+      "sellingPoints": ["修护", "滋养"],
+      "reviewer": "系统自动"
+    }
+  ],
+  "reviewSuggestions": [
+    {
+      "session": "20250225012",
+      "metric": "成交转化率",
+      "value": "2.1%",
+      "benchmark": "3.5%",
+      "level": "严重",
+      "cause": "引流款客单价与目标人群消费力不匹配",
+      "action": "采用价格锚点策略，主推款定价上移并搭配副推款提升 UV 价值"
+    },
+    {
+      "session": "20250225012",
+      "metric": "平均停留时长",
+      "value": "72s",
+      "benchmark": "110s",
+      "level": "严重",
+      "cause": "福利品库存不足导致峰值流量流失",
+      "action": "增加候补库存机制，主福利品售罄时自动推送第二梯度商品"
+    },
+    {
+      "session": "20250225015",
+      "metric": "退货率",
+      "value": "15%",
+      "benchmark": "8%",
+      "level": "严重",
+      "cause": "话术出现极限词，引发平台限流与用户预期偏差",
+      "action": "使用“官方授权”“市场热销价”等替代话术，绿幕实时展示授权书"
+    },
+    {
+      "session": "20250225017",
+      "metric": "粉丝成交占比",
+      "value": "35%",
+      "benchmark": "60%",
+      "level": "严重",
+      "cause": "新客占比过高，老客承接不足",
+      "action": "建立直播间专属会员体系，包裹卡钩子引导复购"
+    }
+  ]
+}

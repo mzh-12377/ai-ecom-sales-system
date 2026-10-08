@@ -1,0 +1,16 @@
+{
+  "source": "智能云AI电商在线销售系统 · 成果包 · 单品利润表",
+  "note": "GMV = 销量 × 单品产品价格；抽佣提成金额 = GMV × 抽成比例；利润 = GMV − 抽佣提成金额 − 直播运营成本",
+  "records": [
+    { "productId": "P008", "seq": 8, "name": "锦之记佛跳墙加花胶粥", "salesVolume": 6000, "price": 688, "commissionRate": 0.17, "gmv": 4128000, "commission": 701760, "liveCost": 2450, "profit": 699310, "liveSessions": 1, "sessionIds": ["20250225015"] },
+    { "productId": "P009", "seq": 9, "name": "维黎登老花贝壳包", "salesVolume": 6500, "price": 499, "commissionRate": 0.19, "gmv": 3243500, "commission": 616265, "liveCost": 6400, "profit": 609865, "liveSessions": 2, "sessionIds": ["20250225015", "20250225012"] },
+    { "productId": "P010", "seq": 10, "name": "Phone 15 Pro Max", "salesVolume": 7000, "price": 20, "commissionRate": 0.3, "gmv": 170000, "commission": 42000, "liveCost": 13125, "profit": 28875, "liveSessions": 2, "sessionIds": ["20250225017", "20250225016"] },
+    { "productId": "P001", "seq": 1, "name": "菲其思花瓣坐垫", "salesVolume": 5000, "price": 108, "commissionRate": 0.2, "gmv": 540000, "commission": 108000, "liveCost": 5391.67, "profit": 102608.33, "liveSessions": 2, "sessionIds": ["20250225001", "20250225017"] },
+    { "productId": "P002", "seq": 2, "name": "wrinklenderm 胶原蛋白紧致面膜", "salesVolume": 3000, "price": 22, "commissionRate": 0.15, "gmv": 66000, "commission": 9900, "liveCost": 8491.67, "profit": 1408.33, "liveSessions": 3, "sessionIds": ["20250225001", "20250225017", "20250225014"] },
+    { "productId": "P003", "seq": 3, "name": "蕉然防晒衣", "salesVolume": 4000, "price": 68, "commissionRate": 0.2, "gmv": 272000, "commission": 54400, "liveCost": 5116.67, "profit": 49283.33, "liveSessions": 2, "sessionIds": ["20250225001", "20250225015"] },
+    { "productId": "P004", "seq": 4, "name": "际越三合一冲锋衣", "salesVolume": 6000, "price": 42.8, "commissionRate": 0.06, "gmv": 256800, "commission": 15408, "liveCost": 5783.33, "profit": 9624.67, "liveSessions": 2, "sessionIds": ["20250225011", "20250225015"] },
+    { "productId": "P005", "seq": 5, "name": "麦小萌磁吸充电宝", "salesVolume": 4500, "price": 199, "commissionRate": 0.11, "gmv": 895500, "commission": 98505, "liveCost": 10266.67, "profit": 88238.33, "liveSessions": 3, "sessionIds": ["20250225011", "20250225013", "20250225014"] },
+    { "productId": "P006", "seq": 6, "name": "联越 Type-C 扩展坞", "salesVolume": 5000, "price": 399, "commissionRate": 0.15, "gmv": 1995000, "commission": 299250, "liveCost": 9891.67, "profit": 289358.33, "liveSessions": 3, "sessionIds": ["20250225011", "20250225013", "20250225017"] },
+    { "productId": "P007", "seq": 7, "name": "诗黎娜黑绷带面霜", "salesVolume": 5500, "price": 188, "commissionRate": 0.12, "gmv": 1034000, "commission": 124080, "liveCost": 34083.33, "profit": 89996.67, "liveSessions": 5, "sessionIds": ["20250225012", "20250225018", "20250225019", "20250225013", "20250225014"] }
+  ]
+}
